@@ -72,7 +72,6 @@ streamlit run app.py
 
 ---
 
-## Author
 
 **Srivatsa Gorti**
 
