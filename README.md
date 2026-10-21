@@ -71,8 +71,3 @@ streamlit run app.py
 ```
 
 ---
-
-
-**Srivatsa Gorti**
-
----
